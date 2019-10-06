@@ -1,0 +1,28 @@
+const states = [
+  { key: 'CA', value: 'California' },
+  { key: 'CO', value: 'Colorado' },
+  { key: 'CT', value: 'Connecticut' },
+  { key: 'DE', value: 'Delaware' },
+  { key: 'DC', value: 'District Of Columbia' },
+  { key: 'FL', value: 'Florida' },
+  { key: 'IL', value: 'Illinois' },
+  { key: 'ME', value: 'Maine' },
+  { key: 'MD', value: 'Maryland' },
+  { key: 'MA', value: 'Massachusetts' },
+  { key: 'MN', value: 'Minnesota' },
+  { key: 'MO', value: 'Missouri' },
+  { key: 'NV', value: 'Nevada' },
+  { key: 'NH', value: 'New Hampshire' },
+  { key: 'NJ', value: 'New Jersey' },
+  { key: 'NM', value: 'New Mexico' },
+  { key: 'NY', value: 'New York' },
+  { key: 'OH', value: 'Ohio' },
+  { key: 'OR', value: 'Oregon' },
+  { key: 'PA', value: 'Pennsylvania' },
+  { key: 'TX', value: 'Texas' },
+  { key: 'UT', value: 'Utah' },
+  { key: 'VT', value: 'Vermont' },
+  { key: 'WI', value: 'Wisconsin' },
+];
+
+export default states;
