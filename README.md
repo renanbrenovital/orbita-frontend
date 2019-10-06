@@ -6,7 +6,7 @@
 
 ## Instalação
 
-1 - Instalar e rodar o backend => https://github.com/renanbrenovital/orbita-backend.git
+1 - Instalar e Iniciar o backend => https://github.com/renanbrenovital/orbita-backend.git
 
 2 - Clonar repositório:
 
