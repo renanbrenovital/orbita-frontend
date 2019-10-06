@@ -8,6 +8,14 @@
 
 1 - Instalar e rodar o backend => https://github.com/renanbrenovital/orbita-backend.git
 
+2 - Clonar repositório:
+
+`git clone https://github.com/renanbrenovital/orbita-frontend.git`
+
+3 - Entrar na pasta:
+
+`cd orbita-frontend`
+
 ## Iniciar
 
 1 - Rodar o comando:
